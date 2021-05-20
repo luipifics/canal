@@ -236,4 +236,6 @@ http://190.13.162.66:8081/play/a017
 http://foxx-tv.com:9600/cBo3cqR3yuaK3mn/hnp2CooHZ6aGGK8/174485?play_token=1gaDP5JYcH
 #EXTINF:-1, tnt series
 http://foxx-tv.com:9600/cBo3cqR3yuaK3mn/hnp2CooHZ6aGGK8/174602?play_token=LyPPhG1LNU
+#EXTINF:-1, cinemax
+http://foxx-tv.com:9600/cBo3cqR3yuaK3mn/hnp2CooHZ6aGGK8/174501?play_token=FiDBbRszF5
 
