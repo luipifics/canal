@@ -238,4 +238,9 @@ http://foxx-tv.com:9600/cBo3cqR3yuaK3mn/hnp2CooHZ6aGGK8/174485?play_token=1gaDP5
 http://foxx-tv.com:9600/cBo3cqR3yuaK3mn/hnp2CooHZ6aGGK8/174602?play_token=LyPPhG1LNU
 #EXTINF:-1, cinemax
 http://foxx-tv.com:9600/cBo3cqR3yuaK3mn/hnp2CooHZ6aGGK8/174501?play_token=FiDBbRszF5
-
+#EXTINF:-1, space
+http://foxx-tv.com:9600/cBo3cqR3yuaK3mn/hnp2CooHZ6aGGK8/174589?play_token=l7i4ECmDbr
+#EXTINF:-1, paramount
+http://foxx-tv.com:9600/cBo3cqR3yuaK3mn/hnp2CooHZ6aGGK8/174581?play_token=WywIC2jTzB
+#EXTINF:-1, fox
+http://foxx-tv.com:9600/cBo3cqR3yuaK3mn/hnp2CooHZ6aGGK8/174888?play_token=wxUgHvIqWI
