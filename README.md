@@ -244,3 +244,64 @@ http://foxx-tv.com:9600/cBo3cqR3yuaK3mn/hnp2CooHZ6aGGK8/174589?play_token=l7i4EC
 http://foxx-tv.com:9600/cBo3cqR3yuaK3mn/hnp2CooHZ6aGGK8/174581?play_token=WywIC2jTzB
 #EXTINF:-1, fox
 http://foxx-tv.com:9600/cBo3cqR3yuaK3mn/hnp2CooHZ6aGGK8/174888?play_token=wxUgHvIqWI
+#EXTINF:-1,ATV
+http://94.250.61.10:8000/play/a07g
+#EXTINF:-1,Arena Sport 5
+http://94.250.61.10:8000/play/a06o
+#EXTINF:-1,BHT 1
+http://94.250.61.10:8000/play/a07k
+#EXTINF:-1,CineStar Comedy
+http://94.250.61.10:8000/play/a083
+#EXTINF:-1,CineStar TV Fantasy
+http://94.250.61.10:8000/play/a05a
+#EXTINF:-1,Cinemania HD
+http://94.250.61.10:8000/play/cinema
+#EXTINF:-1,Federalna TV
+http://94.250.61.10:8000/play/a07l
+#EXTINF:-1,Film Klub
+http://94.250.61.10:8000/play/a07c
+#EXTINF:-1,Lov i Ribolov
+http://94.250.61.10:8000/play/a07m
+#EXTINF:-1,Nat Geo Wild HD
+http://94.250.61.10:8000/play/a06x
+#EXTINF:-1,National Geographic
+http://94.250.61.10:8000/play/a06y
+#EXTINF:-1,Nova HR HD
+http://94.250.61.10:8000/play/novatv
+#EXTINF:-1,Prva Plus
+http://94.250.61.10:8000/play/a06q
+#EXTINF:-1,RTL HD.
+http://94.250.61.10:8000/play/rtl
+#EXTINF:-1,RTL2.
+http://94.250.61.10:8000/play/a05k
+#EXTINF:-1,RTRS
+http://94.250.61.10:8000/play/rtrs
+#EXTINF:-1,SK 1 HD
+http://94.250.61.10:8000/play/sk1
+#EXTINF:-1,Superstar TV
+http://94.250.61.10:8000/play/a06u
+#EXTINF:-1,TV B92 HD
+http://94.250.61.10:8000/play/b92
+#EXTINF:-1,TV1000
+http://94.250.61.10:8000/play/a06j
+#EXTINF:-1,polaris-Agro TV
+http://94.250.61.10:8000/play/a049
+#EXTINF:-1,polaris-Arena Sport 1
+http://94.250.61.10:8000/play/arenasr1
+#EXTINF:-1,polaris-Arena Sport 2
+http://94.250.61.10:8000/play/arenasr2
+#EXTINF:-1,polaris-Arena Sport 3
+http://94.250.61.10:8000/play/arenasr3
+#EXTINF:-1,polaris-Arena Sport 4
+http://94.250.61.10:8000/play/arenasr4
+#EXTINF:-1,polaris-CineStar TV
+http://94.250.61.10:8000/play/cinestartv
+#EXTINF:-1,polaris-CineStar TV Action
+http://94.250.61.10:8000/play/a048
+#EXTINF:-1,polaris-Discovery Serbia
+http://94.250.61.10:8000/play/discovery
+#EXTINF:-1,polaris-Eurosport 2 HD
+http://94.250.61.10:8000/play/eurosport2
+#EXTINF:-1,polaris-PRVA HD
+http://94.250.61.10:8000/play/prvatv
+
