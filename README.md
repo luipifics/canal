@@ -13,3 +13,7 @@ http://195.181.163.39/ARG_A&E/index.m3u8?token=a0c37b15d4392fcd3d9d73331e3359e9
 http://195.181.163.39/ARG_TNT_SERIES/index.m3u8?token=4cae37bff66cbd9db25859c9d4735497
 #EXTINF:-1,Space_HD
 http://195.181.163.39/LAT_Space_HD/index.m3u8?token=28da090c610cd75f8f6dfe1a3fe9308f
+#EXTINF:-1,CINEMAX
+http://195.181.163.39/ARG_CINEMAX/index.m3u8?token=a5f111c2aec4230f61b165a60dfcb62d
+#EXTINF:-1,AXN
+http://195.181.163.39/ARG_AXN/index.m3u8?token=02676483b84a06c24ca7cb751c9f8822
