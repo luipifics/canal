@@ -1,5 +1,5 @@
 # canal
-#EXTINF:-1,TNT SERIES
+#EXTINF:-1,LAT_TNT SERIES
 http://195.181.163.39/LAT_TNT_Series_HD/tracks-v1a1/mono.m3u8?token=790ff4b34c153bbacc18b621ea478a3c
 
 #EXTINF:-1,SPACE
@@ -17,3 +17,7 @@ http://195.181.163.39/LAT_Space_HD/index.m3u8?token=28da090c610cd75f8f6dfe1a3fe9
 http://195.181.163.39/ARG_CINEMAX/index.m3u8?token=a5f111c2aec4230f61b165a60dfcb62d
 #EXTINF:-1,AXN
 http://195.181.163.39/ARG_AXN/index.m3u8?token=02676483b84a06c24ca7cb751c9f8822
+#EXTINF:-1,LAT_Cinemax_HD_1080
+http://195.181.163.39/LAT_Cinemax_HD_1080i/tracks-v1a1/mono.m3u8?token=de48f73a31bda15a991dacc5a6a9dc9e
+#EXTINF:-1,LAT_Space_HD
+http://195.181.163.39/LAT_Space_HD/tracks-v1a1/mono.m3u8?token=1b0445698aab690d27b927dd939d6878
