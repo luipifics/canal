@@ -35,3 +35,9 @@ http://195.181.163.39/LAT_Starz_Encore_Action/tracks-v1a1/mono.m3u8?token=bdd6d7
 http://195.181.163.39/LAT_STARZ_ENCORE_FAMILY/tracks-v1a1/mono.m3u8?token=2502a8d8bb65ae98e15f7ad42adf90d3
 #EXTINF:-1,LAT_UNIVERSAL
 http://195.181.163.39/LAT_UNIVERSAL/tracks-v1a1/mono.m3u8?token=3f26d7d051fb6aa4bb64d88a04e5a9fb
+#EXTINF:-1,LAT_Cinemax_Action_HD
+http://195.181.163.39/LAT_Cinemax_Action_HD/index.m3u8?token=914a17db37855aa1aa66187195f7308d
+#EXTINF:-1,LAT_Starz_Encore_Action
+http://195.181.163.39/LAT_Starz_Encore_Action/index.m3u8?token=22906184a1df6ca7cce74d477cd03d55
+#EXTINF:-1,LAT_Starz_Encore_Black_HD
+http://195.181.163.39/LAT_Starz_Encore_Black_HD/tracks-v1a1/mono.m3u8?token=0671893f8170adeaa2b335825645b208
