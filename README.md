@@ -41,3 +41,19 @@ http://195.181.163.39/LAT_Cinemax_Action_HD/index.m3u8?token=914a17db37855aa1aa6
 http://195.181.163.39/LAT_Starz_Encore_Action/index.m3u8?token=22906184a1df6ca7cce74d477cd03d55
 #EXTINF:-1,LAT_Starz_Encore_Black_HD
 http://195.181.163.39/LAT_Starz_Encore_Black_HD/tracks-v1a1/mono.m3u8?token=0671893f8170adeaa2b335825645b208
+#EXTINF:-1,tnt series 2
+http://lt-afr.rtload.be:9192/8fed358d28529a5abdbbb83b29d17c024079ab618d2800482567/index.m3u8?token=b70110563a5a4508e235968e0c6f28ed
+#EXTINF:-1, cinemax 2
+http://lt-afr.rtload.be:9192/8fed358d28529a5abdbbb83b29d17c02577eb17b932c0a/index.m3u8?token=d3779b5cfb415ae488ebf6b2b23caa25
+#EXTINF:-1, star accion 2
+http://lt-afr.rtload.be:9192/8fed358d28529a5abdbbb83b29d17c025278a7618e3f174c296115fb10a7aaa87d4f/index.m3u8?token=a16f49a8f790976d88424205569a20fb
+#EXTINF:-1, LAT_UNIVERSAL
+http://195.181.163.39/LAT_UNIVERSAL/tracks-v1a1/mono.m3u8?token=6c1db8f13f60bb56ede0fd5b8d88b6d7
+#EXTINF:-1, ARG_SPACE
+http://195.181.163.39/ARG_SPACE/tracks-v1a1/mono.m3u8?token=9f033d46623bc5f8f41ee05ebba2743a
+#EXTINF:-1, ARG_CINEMAX
+http://195.181.163.39/ARG_CINEMAX/tracks-v1a1/mono.m3u8?token=0675e2b689859dc8089f0b6fd031d834
+#EXTINF:-1, ARG_TCM
+http://195.181.163.39/ARG_TCM/tracks-v1a1/mono.m3u8?token=53747960b6725f59bd19f6bca04ebab0
+#EXTINF:-1, LAT_Cinemax_Action_HD
+http://195.181.163.39/LAT_Cinemax_Action_HD/tracks-v1a1/mono.m3u8?token=e0df25576e75241a4b5e69be571a4848
