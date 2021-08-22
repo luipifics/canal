@@ -57,3 +57,7 @@ http://195.181.163.39/ARG_CINEMAX/tracks-v1a1/mono.m3u8?token=0675e2b689859dc808
 http://195.181.163.39/ARG_TCM/tracks-v1a1/mono.m3u8?token=53747960b6725f59bd19f6bca04ebab0
 #EXTINF:-1, LAT_Cinemax_Action_HD
 http://195.181.163.39/LAT_Cinemax_Action_HD/tracks-v1a1/mono.m3u8?token=e0df25576e75241a4b5e69be571a4848
+#EXTINF:-1, star cinema premium
+http://lt-afr.rtload.be:9192/8fed358d28529a5abdbbb83b29d17c025278a7618e3f174c296115fb12adb0a47f40/tracks-v1a1/mono.m3u8?token=3c53f4010171ab8d9b20cd25c351e3b7
+#EXTINF:-1, star clasicos
+http://lt-afr.rtload.be:9192/8fed358d28529a5abdbbb83b29d17c025278a7618e3f174c296115fb17a5b3a87e58/tracks-v1a1/mono.m3u8?token=6e7c12c4aea89625a27c7873ea06b42a
