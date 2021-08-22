@@ -46,7 +46,7 @@ http://lt-afr.rtload.be:9192/8fed358d28529a5abdbbb83b29d17c024079ab618d280048256
 #EXTINF:-1, cinemax 2
 http://lt-afr.rtload.be:9192/8fed358d28529a5abdbbb83b29d17c02577eb17b932c0a/index.m3u8?token=d3779b5cfb415ae488ebf6b2b23caa25
 #EXTINF:-1, star accion 2
-http://lt-afr.rtload.be:9192/8fed358d28529a5abdbbb83b29d17c025278a7618e3f174c296115fb10a7aaa87d4f/index.m3u8?token=a16f49a8f790976d88424205569a20fb
+http://lt-afr.rtload.be:9192/8fed358d28529a5abdbbb83b29d17c025278a7618e3f174c296115fb10a7aaa87d4f/tracks-v1a1/mono.m3u8?token=8a9457d58c6f322c4efe2b5bba6a5a5a
 #EXTINF:-1, LAT_UNIVERSAL
 http://195.181.163.39/LAT_UNIVERSAL/tracks-v1a1/mono.m3u8?token=6c1db8f13f60bb56ede0fd5b8d88b6d7
 #EXTINF:-1, ARG_SPACE
