@@ -61,3 +61,25 @@ http://195.181.163.39/LAT_Cinemax_Action_HD/tracks-v1a1/mono.m3u8?token=e0df2557
 http://lt-afr.rtload.be:9192/8fed358d28529a5abdbbb83b29d17c025278a7618e3f174c296115fb12adb0a47f40/tracks-v1a1/mono.m3u8?token=3c53f4010171ab8d9b20cd25c351e3b7
 #EXTINF:-1, star clasicos
 http://lt-afr.rtload.be:9192/8fed358d28529a5abdbbb83b29d17c025278a7618e3f174c296115fb17a5b3a87e58/tracks-v1a1/mono.m3u8?token=6e7c12c4aea89625a27c7873ea06b42a
+#EXTINF:-1, LAT_TNT_Series_HD
+http://195.181.163.39/LAT_TNT_Series_HD/index.m3u8
+#EXTINF:-1, LAT_AMC_HD
+http://195.181.163.39/LAT_AMC_HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1, LAT_Space_HD
+http://195.181.163.39/LAT_Space_HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1, LAT_Starz_Family_HD
+http://195.181.163.39/LAT_Starz_Family_HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1, LAT_TNT_Series_HD
+http://195.181.163.39/LAT_TNT_Series_HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1, LAT_Fox_HD
+http://195.181.163.39/LAT_Fox_HD/index.m3u8
+#EXTINF:-1, LAT_TLC_HD
+http://195.181.163.39/LAT_TLC_HD/index.m3u8
+#EXTINF:-1, ARG_TNT_SERIES
+http://195.181.163.39/ARG_TNT_SERIES/tracks-v1a1/mono.m3u8
+#EXTINF:-1, LAT_Starz_Encore_Action
+http://195.181.163.39/LAT_Starz_Encore_Action/tracks-v1a1/mono.m3u8
+#EXTINF:-1, LAT_Starz_Cinema_HD
+http://195.181.163.39/LAT_Starz_Cinema_HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1, LAT_Fox_Movies_HD
+http://195.181.163.39/LAT_Fox_Movies_HD/tracks-v1a1/mono.m3u8
