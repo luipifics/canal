@@ -87,3 +87,13 @@ http://195.181.163.39/LAT_Fox_Movies_HD/tracks-v1a1/mono.m3u8
 http://54.39.100.215/MX_TNTSeries FHD/index.m3u8
 #EXTINF:-1,MX_TNTSeries
 http://54.39.100.215/MX_TNTSeries/index.m3u8
+#EXTINF:-1, axn
+http://lt-afr.rtload.be:9192/8fed358d28529a59b8bcba3b21d17c02556fb1/index.m3u8
+#EXTINF:-1, cinemax
+http://lt-afr.rtload.be:9192/8fed358d28529a59b8bcba3b21d17c02577eb17b932c0a/index.m3u8
+#EXTINF:-1, space
+http://lt-afr.rtload.be:9192/8fed358d28529a59b8bcba3b21d17c024767be7d9b/tracks-v1a1/mono.m3u8
+#EXTINF:-1, tnt series
+http://lt-afr.rtload.be:9192/8fed358d28529a59b8bcba3b21d17c024079ab618d2800482567/tracks-v1a1/mono.m3u8
+#EXTINF:-1, universal
+http://lt-afr.rtload.be:9192/8fed358d28529a59b8bcba3b21d17c024179b6689b3f01402c/tracks-v1a1/mono.m3u8
