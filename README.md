@@ -83,3 +83,7 @@ http://195.181.163.39/LAT_Starz_Encore_Action/tracks-v1a1/mono.m3u8
 http://195.181.163.39/LAT_Starz_Cinema_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1, LAT_Fox_Movies_HD
 http://195.181.163.39/LAT_Fox_Movies_HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1, MX_TNTSeries
+http://54.39.100.215/MX_TNTSeries FHD/index.m3u8
+#EXTINF:-1,
+http://54.39.100.215/MX_TNTSeries/index.m3u8
