@@ -29,5 +29,6 @@ http://loadgal05.online:8080/miguelIhikwFlhIu/jMAfvNIew4/28951?play_token=j4g8dh
 http://cdn.boxter.live:8081/cine/SPACE/playlist.m3u8
 #EXTINF:-1, cinemax
 http://cdn.boxter.live:8081/cine/CINEMAX/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/LYckSN3/0rocha2021.png",Space FHD MX
+
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS Space FHD MX
 http://tv.fulliptvserver.mydns.live:8080/x5k8k2lgtk/lmbjvegv3/6740
