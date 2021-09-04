@@ -1,4 +1,65 @@
-
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS 24/7..el pajaro loco
+http://www.iptvlatino.ml:2082/live/24megamaraton/24megamaraton/999.ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS 24/7..momentos musicales
+http://www.iptvlatino.ml:2082/live/24megamaraton/24megamaraton/986.ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS 24/7..pinche pancho
+http://www.iptvlatino.ml:2082/live/24megamaraton/24megamaraton/991.ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS24/7..40 y 20..y..renta congelada
+http://www.iptvlatino.ml:2082/live/24megamaraton/24megamaraton/989.ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS24/7..YUGIOH
+http://www.iptvlatino.ml:2082/live/24megamaraton/24megamaraton/718.ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS 24/7..vecinos
+http://www.iptvlatino.ml:2082/live/24megamaraton/24megamaraton/729.ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS 24/7..una familia de 10
+http://www.iptvlatino.ml:2082/live/24megamaraton/24megamaraton/719.ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS 24/7..Mr Bean
+http://www.iptvlatino.ml:2082/live/24megamaraton/24megamaraton/728.ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS 24/7..Medialuna y las noches mágicas
+http://www.iptvlatino.ml:2082/live/24megamaraton/24megamaraton/720.ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS 24/7..Lazy Town
+http://www.iptvlatino.ml:2082/live/24megamaraton/24megamaraton/721.ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS 24/7..la pequeña lulu
+http://www.iptvlatino.ml:2082/live/24megamaraton/24megamaraton/722.ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS 24/7..la epoca de la disco de oro
+http://www.iptvlatino.ml:2082/live/24megamaraton/24megamaraton/727.ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS 24/7..en busca del valle encantado
+http://www.iptvlatino.ml:2082/live/24megamaraton/24megamaraton/723.ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS 24/7..EL CHAPULIN COLORADO
+http://www.iptvlatino.ml:2082/live/24megamaraton/24megamaraton/724.ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS 24/7..ed edd y eddy
+http://www.iptvlatino.ml:2082/live/24megamaraton/24megamaraton/725.ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS 24/7..Cuentos de había una vez
+http://www.iptvlatino.ml:2082/live/24megamaraton/24megamaraton/726.ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS 24/7..la niñera
+http://www.iptvlatino.ml:2082/live/24megamaraton/24megamaraton/660.ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS 24/7..el chavo del ocho
+http://www.iptvlatino.ml:2082/live/24megamaraton/24megamaraton/661.ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS 24/7..srita cometa
+http://www.iptvlatino.ml:2082/live/24megamaraton/24megamaraton/663.ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS 24/7..los pitufos
+http://www.iptvlatino.ml:2082/live/24megamaraton/24megamaraton/664.ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS 24/7..la pantera rosa
+http://www.iptvlatino.ml:2082/live/24megamaraton/24megamaraton/670.ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS 24/7..la hora pico
+http://www.iptvlatino.ml:2082/live/24megamaraton/24megamaraton/673.ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS 24/7..la familia peluche
+http://www.iptvlatino.ml:2082/live/24megamaraton/24megamaraton/674.ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS 24/7..la familia monters
+http://www.iptvlatino.ml:2082/live/24megamaraton/24megamaraton/672.ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS 24/7..he man
+http://www.iptvlatino.ml:2082/live/24megamaraton/24megamaraton/668.ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS 24/7..gasparin y sus amigos
+http://www.iptvlatino.ml:2082/live/24megamaraton/24megamaraton/666.ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS 24/7..el inspector gadget
+http://www.iptvlatino.ml:2082/live/24megamaraton/24megamaraton/667.ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS 24/7..el chavo animado
+http://www.iptvlatino.ml:2082/live/24megamaraton/24megamaraton/665.ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS 24/7..cascarabias
+http://www.iptvlatino.ml:2082/live/24megamaraton/24megamaraton/671.ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS 24/7..caricaturas clasicas
+http://www.iptvlatino.ml:2082/live/24megamaraton/24megamaraton/669.ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS 24/7.. bajoterra
+http://www.iptvlatino.ml:2082/live/24megamaraton/24megamaraton/662.ts
 #EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS tnt series 2
 http://lt-afr.rtload.be:9192/8fed358d28529a5abdbbb83b29d17c024079ab618d2800482567/index.m3u8?token=b70110563a5a4508e235968e0c6f28ed
 
