@@ -29,5 +29,5 @@ http://loadgal05.online:8080/miguelIhikwFlhIu/jMAfvNIew4/28951?play_token=j4g8dh
 http://cdn.boxter.live:8081/cine/SPACE/playlist.m3u8
 #EXTINF:-1, cinemax
 http://cdn.boxter.live:8081/cine/CINEMAX/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Space FHD MX" tvg-logo="https://www.google.com/imgres?imgurl=https%3A%2F%2Fmarketing4ecommerce.net%2Fwp-content%2Fuploads%2F2016%2F05%2FAndroid-1.jpg&imgrefurl=https%3A%2F%2Fmarketing4ecommerce.net%2Fvulnerabilidades-en-android-el-sistema-operativo-de-google%2F&tbnid=mTegDlsJRxQkJM&vet=12ahUKEwjcrOuGpubyAhUMb60KHcxPA4AQMygAegUIARCnAQ..i&docid=gOXbIUtDfH5t-M&w=1000&h=875&q=android%20mecanico%20png&ved=2ahUKEwjcrOuGpubyAhUMb60KHcxPA4AQMygAegUIARCnAQ" group-title="Latin America",Space FHD MX
+#EXTINF:-1 tvg-id="" tvg-name="Space FHD MX" tvg-logo="https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.pngarts.com%2Ffiles%2F3%2FAndroid-PNG-Free-Download.png&imgrefurl=https%3A%2F%2Fwww.pngarts.com%2Fexplore%2F99308&tbnid=ud4pxsKsdw4kuM&vet=12ahUKEwjG7azVsebyAhUIB6wKHdtjAYwQMyg-egQIARBP..i&docid=0BUGBImzA5hdOM&w=1488&h=1464&q=android%20png&hl=es-419&ved=2ahUKEwjG7azVsebyAhUIB6wKHdtjAYwQMyg-egQIARBPg" group-title="Latin America",Space FHD MX
 http://tv.fulliptvserver.mydns.live:8080/x5k8k2lgtk/lmbjvegv3/6740
