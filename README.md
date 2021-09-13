@@ -177,7 +177,7 @@ http://cdn.boxter.live:8081/cine/TNT_SERIES/playlist.m3u8
 http://cdn.boxter.live:8081/cine/CINEMAX/playlist.m3u8
 #EXTINF:-1, space
 http://cdn.boxter.live:8081/cine/SPACE/playlist.m3u8
-#EXTINF:-1, cinemax
+#EXTINF:-1, CINEMAX
 http://rs2.hp5trg14.club/1YAOKQOPCRIT09X4BMYY/qts/p_25_1_.m3u8
 #EXTINF:-1, space
 http://rs2.hp5trg14.club/1YAOKQOPCRIT09X4BMYY/qts/p_126_1_.m3u8
