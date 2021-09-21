@@ -467,3 +467,16 @@ http://rv.therevenge.co:80/8337291577/0410419338/86924
 http://rv.therevenge.co:80/8337291577/0410419338/86923
 #EXTINF:-1 tvg-id="" tvg-name="|LATIN| VH1" tvg-logo="" group-title="|LA| LATINO",|LATIN| VH1
 http://rv.therevenge.co:80/8337291577/0410419338/86922
+#EXTINF:-1, STAR ACCION
+http://201.220.141.118:8000/play/a06b/index.m3u8
+#EXTINF:-1, CINEMAX
+http://201.220.141.118:8000/play/a053/index.m3u8
+#EXTINF:-1, CINEMAX
+http://cdn.boxter.live:8081/cine/CINEMAX/playlist.m3u8
+#EXTINF:-1, SPACE
+http://cdn.boxter.live:8081/cine/SPACE/playlist.m3u8
+#EXTINF:-1, TNT SERIES
+http://cdn.boxter.live:8081/cine/TNT_SERIES/playlist.m3u8
+#EXTINF:-1, STAR ACCION
+http://cdn.boxter.live:8081/cine/STAR_ACTION/playlist.m3u8
+#EXTINF:-1,
