@@ -106,71 +106,71 @@ http://cdn.boxter.live:8081/cine/SPACE/playlist.m3u8
 http://cdn.boxter.live:8081/cine/CINEMAX/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="------- Movies & Series -------" tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg" group-title="Latin America",------- Movies & Series -------
-http://tv.fulliptvserver.mydns.live:8080/x5k8k2lgtk/lmbjvegv3/688534
+http://tv.fulliptvserver.mydns.live:8080/rq9jo5zfn9/mo433mn4ra/688534
 #EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS Star Cinema FHD LAM
-http://tv.fulliptvserver.mydns.live:8080/x5k8k2lgtk/lmbjvegv3/6715
+http://tv.fulliptvserver.mydns.live:8080/rq9jo5zfn9/mo433mn4ra/6715
 #EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS Star Action HD LAM
-http://tv.fulliptvserver.mydns.live:8080/x5k8k2lgtk/lmbjvegv3/6714
+http://tv.fulliptvserver.mydns.live:8080/rq9jo5zfn9/mo433mn4ra/6714
 #EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS Star Classics FHD LAM
-http://tv.fulliptvserver.mydns.live:8080/x5k8k2lgtk/lmbjvegv3/6716
+http://tv.fulliptvserver.mydns.live:8080/rq9jo5zfn9/mo433mn4ra/6716
 #EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS Star Hits FHD LAM
-http://tv.fulliptvserver.mydns.live:8080/x5k8k2lgtk/lmbjvegv3/6720
+http://tv.fulliptvserver.mydns.live:8080/rq9jo5zfn9/mo433mn4ra/6720
 #EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS Star Series LAM
-http://tv.fulliptvserver.mydns.live:8080/x5k8k2lgtk/lmbjvegv3/6718
+http://tv.fulliptvserver.mydns.live:8080/rq9jo5zfn9/mo433mn4ra/6718
 #EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS Star Life FHD LAM
-http://tv.fulliptvserver.mydns.live:8080/x5k8k2lgtk/lmbjvegv3/6719
+http://tv.fulliptvserver.mydns.live:8080/rq9jo5zfn9/mo433mn4ra/6719
 #EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS Latin America",Golden MX
-http://tv.fulliptvserver.mydns.live:8080/x5k8k2lgtk/lmbjvegv3/6727
+http://tv.fulliptvserver.mydns.live:8080/rq9jo5zfn9/mo433mn4ra/6727
 #EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS Golden Edge MX
-http://tv.fulliptvserver.mydns.live:8080/x5k8k2lgtk/lmbjvegv3/6728
+http://tv.fulliptvserver.mydns.live:8080/rq9jo5zfn9/mo433mn4ra/6728
 #EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS Studio Universal MX
-http://tv.fulliptvserver.mydns.live:8080/x5k8k2lgtk/lmbjvegv3/6741
+http://tv.fulliptvserver.mydns.live:8080/rq9jo5zfn9/mo433mn4ra/6741
 #EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS TNT Series FHD LAM
-http://tv.fulliptvserver.mydns.live:8080/x5k8k2lgtk/lmbjvegv3/6750
+http://tv.fulliptvserver.mydns.live:8080/rq9jo5zfn9/mo433mn4ra/6750
 #EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS SyFy FHD LAM
-http://tv.fulliptvserver.mydns.live:8080/x5k8k2lgtk/lmbjvegv3/6742
+http://tv.fulliptvserver.mydns.live:8080/rq9jo5zfn9/mo433mn4ra/6742
 #EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS Latin America",Space FHD MX
-http://tv.fulliptvserver.mydns.live:8080/x5k8k2lgtk/lmbjvegv3/6740
+http://tv.fulliptvserver.mydns.live:8080/rq9jo5zfn9/mo433mn4ra/6740
 #EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS TCM LAM
-http://tv.fulliptvserver.mydns.live:8080/x5k8k2lgtk/lmbjvegv3/6758
+http://tv.fulliptvserver.mydns.live:8080/rq9jo5zfn9/mo433mn4ra/6758
 #EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS A&E LAM
-http://tv.fulliptvserver.mydns.live:8080/x5k8k2lgtk/lmbjvegv3/6673
+http://tv.fulliptvserver.mydns.live:8080/rq9jo5zfn9/mo433mn4ra/6673
 #EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS ,AMC LAM
-http://tv.fulliptvserver.mydns.live:8080/x5k8k2lgtk/lmbjvegv3/6674
+http://tv.fulliptvserver.mydns.live:8080/rq9jo5zfn9/mo433mn4ra/6674
 #EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS AXN LAM
-http://tv.fulliptvserver.mydns.live:8080/x5k8k2lgtk/lmbjvegv3/6762
+http://tv.fulliptvserver.mydns.live:8080/rq9jo5zfn9/mo433mn4ra/6762
 #EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS Cinecanal FHD LAM
-http://tv.fulliptvserver.mydns.live:8080/x5k8k2lgtk/lmbjvegv3/6691
+http://tv.fulliptvserver.mydns.live:8080/rq9jo5zfn9/mo433mn4ra/6691
 #EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS De Pelicula MX
-http://tv.fulliptvserver.mydns.live:8080/x5k8k2lgtk/lmbjvegv3/6711
+http://tv.fulliptvserver.mydns.live:8080/rq9jo5zfn9/mo433mn4ra/6711
 #EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS Distrito Comedia MX
-http://tv.fulliptvserver.mydns.live:8080/x5k8k2lgtk/lmbjvegv3/6705
+http://tv.fulliptvserver.mydns.live:8080/rq9jo5zfn9/mo433mn4ra/6705
 #EXTINF:-1 tvg-id="" tvg-name="------- Documentaries -------" tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg" group-title="Latin America",------- Documentaries -------
-http://tv.fulliptvserver.mydns.live:8080/x5k8k2lgtk/lmbjvegv3/688536
+http://tv.fulliptvserver.mydns.live:8080/rq9jo5zfn9/mo433mn4ra/688536
 #EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS FHD LAM
-http://tv.fulliptvserver.mydns.live:8080/x5k8k2lgtk/lmbjvegv3/687924
+http://tv.fulliptvserver.mydns.live:8080/rq9jo5zfn9/mo433mn4ra/687924
 #EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS Animal Planet LAM
-http://tv.fulliptvserver.mydns.live:8080/x5k8k2lgtk/lmbjvegv3/6675
+http://tv.fulliptvserver.mydns.live:8080/rq9jo5zfn9/mo433mn4ra/6675
 #EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS Discovery Home and Health LAM
-http://tv.fulliptvserver.mydns.live:8080/x5k8k2lgtk/lmbjvegv3/6696
+http://tv.fulliptvserver.mydns.live:8080/rq9jo5zfn9/mo433mn4ra/6696
 #EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS HGTV LAM
-http://tv.fulliptvserver.mydns.live:8080/x5k8k2lgtk/lmbjvegv3/6695
+http://tv.fulliptvserver.mydns.live:8080/rq9jo5zfn9/mo433mn4ra/6695
 #EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS E! Entertainment FHD LAM
-http://tv.fulliptvserver.mydns.live:8080/x5k8k2lgtk/lmbjvegv3/688426
+http://tv.fulliptvserver.mydns.live:8080/rq9jo5zfn9/mo433mn4ra/688426
 #EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS Lifetime LAM
-http://tv.fulliptvserver.mydns.live:8080/x5k8k2lgtk/lmbjvegv3/6732
+http://tv.fulliptvserver.mydns.live:8080/rq9jo5zfn9/mo433mn4ra/6732
 #EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS Canal Gourmet FHD LAM
-http://tv.fulliptvserver.mydns.live:8080/x5k8k2lgtk/lmbjvegv3/6687
+http://tv.fulliptvserver.mydns.live:8080/rq9jo5zfn9/mo433mn4ra/6687
 #EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS TV LAM
-http://tv.fulliptvserver.mydns.live:8080/x5k8k2lgtk/lmbjvegv3/6760
+http://tv.fulliptvserver.mydns.live:8080/rq9jo5zfn9/mo433mn4ra/6760
 #EXTINF:-1 tvg-id="" tvg-name="------- Children -------" tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg" group-title="Latin America",------- Children -------
-http://tv.fulliptvserver.mydns.live:8080/x5k8k2lgtk/lmbjvegv3/688537
+http://tv.fulliptvserver.mydns.live:8080/rq9jo5zfn9/mo433mn4ra/688537
 #EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS Cartoon Network FHD LAM
-http://tv.fulliptvserver.mydns.live:8080/x5k8k2lgtk/lmbjvegv3/6689
+http://tv.fulliptvserver.mydns.live:8080/rq9jo5zfn9/mo433mn4ra/6689
 #EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS Disney Channel FHD LAM
-http://tv.fulliptvserver.mydns.live:8080/x5k8k2lgtk/lmbjvegv3/6700
+http://tv.fulliptvserver.mydns.live:8080/rq9jo5zfn9/mo433mn4ra/6700
 #EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS Nickelodeon LAM
-http://tv.fulliptvserver.mydns.live:8080/x5k8k2lgtk/lmbjvegv3/6736
+http://tv.fulliptvserver.mydns.live:8080/rq9jo5zfn9/mo433mn4ra/6736
 #EXTINF:-1, tnt series
 http://cdn.boxter.live:8081/cine/TNT_SERIES/playlist.m3u8
 #EXTINF:-1, cinemax
@@ -218,252 +218,252 @@ http://66.115.179.2:25461/013486D42C12CCD/4QvzIefTTf/140329?play_token=bbaDWgiUE
 #EXTINF:-1, CINEMAX*
 http://66.115.179.2:25461/013486D42C12CCD/4QvzIefTTf/30631?play_token=668wHOYCSy&token=QhUMWBEORgoaCwZTDlxaVgVaUlRbBwxfBgVRBAdWCwIBVVZaAAcHBwEQGRdFERAAAFRuXwcUD1UFBlVQHkBMEFxFO1AGRF4SCgcGAQJXUkdNG0VfDlMXXAQGVVMCUgxTCQ9IGxIPABICEAcND1dQR00bVE4XU0cIVFw5BVcUUABcFV5XFwoIHBpdW2pSAA8ED10TDEEGF0oXWRUREFhXFlVbSBsADxBCWUZQFwxHUV1WDRMaQVVaE1tEFBgQWBsgeBVIGwceEFVWQVxaWEdYRxVKExpBX0Y5R1UVFUAHWA5cRUYDQFZGHBpfVE1pBg0LD1xSQgpZWxUXCkRQEE4bDlZZDU0NFDtAUVYXDxRRUlRUG0w=
 #EXTINF:-1 tvg-id="" tvg-name="##### |LATIN| GENERAL #####" tvg-logo="" group-title="|LA| LATINO",##### |LATIN| GENERAL #####
-http://rv.therevenge.co:80/0130885299/2961241360/87047
+http://rv.therevenge.co:80/8337291577/0410419338/87047
 #EXTINF:-1 tvg-id="" tvg-name="|LATIN| FORO TV" tvg-logo="" group-title="|LA| LATINO",|LATIN| FORO TV
-http://rv.therevenge.co:80/0130885299/2961241360/87045
+http://rv.therevenge.co:80/8337291577/0410419338/87045
 #EXTINF:-1 tvg-id="" tvg-name="|LATIN| TDN" tvg-logo="" group-title="|LA| LATINO",|LATIN| TDN
-http://rv.therevenge.co:80/0130885299/2961241360/87044
+http://rv.therevenge.co:80/8337291577/0410419338/87044
 #EXTINF:-1 tvg-id="" tvg-name="|LATIN| HOLA TV" tvg-logo="" group-title="|LA| LATINO",|LATIN| HOLA TV
-http://rv.therevenge.co:80/0130885299/2961241360/87043
+http://rv.therevenge.co:80/8337291577/0410419338/87043
 #EXTINF:-1 tvg-id="" tvg-name="|LATIN| CINE LATINO" tvg-logo="" group-title="|LA| LATINO",|LATIN| CINE LATINO
-http://rv.therevenge.co:80/0130885299/2961241360/87042
+http://rv.therevenge.co:80/8337291577/0410419338/87042
 #EXTINF:-1 tvg-id="" tvg-name="|LATIN| LIFETIME" tvg-logo="" group-title="|LA| LATINO",|LATIN| LIFETIME
-http://rv.therevenge.co:80/0130885299/2961241360/87041
+http://rv.therevenge.co:80/8337291577/0410419338/87041
 #EXTINF:-1 tvg-id="" tvg-name="|LATIN| MILENIO TV" tvg-logo="" group-title="|LA| LATINO",|LATIN| MILENIO TV
-http://rv.therevenge.co:80/0130885299/2961241360/87040
+http://rv.therevenge.co:80/8337291577/0410419338/87040
 #EXTINF:-1 tvg-id="" tvg-name="|LATIN| ARTS" tvg-logo="" group-title="|LA| LATINO",|LATIN| ARTS
-http://rv.therevenge.co:80/0130885299/2961241360/87039
+http://rv.therevenge.co:80/8337291577/0410419338/87039
 #EXTINF:-1 tvg-id="" tvg-name="|LATIN| 52MX" tvg-logo="" group-title="|LA| LATINO",|LATIN| 52MX
-http://rv.therevenge.co:80/0130885299/2961241360/87038
+http://rv.therevenge.co:80/8337291577/0410419338/87038
 #EXTINF:-1 tvg-id="" tvg-name="|LATIN| AMERICATEVE" tvg-logo="" group-title="|LA| LATINO",|LATIN| AMERICATEVE
-http://rv.therevenge.co:80/0130885299/2961241360/87037
+http://rv.therevenge.co:80/8337291577/0410419338/87037
 #EXTINF:-1 tvg-id="" tvg-name="|LATIN| GLITZ" tvg-logo="" group-title="|LA| LATINO",|LATIN| GLITZ
-http://rv.therevenge.co:80/0130885299/2961241360/87036
+http://rv.therevenge.co:80/8337291577/0410419338/87036
 #EXTINF:-1 tvg-id="" tvg-name="|LATIN| TBS" tvg-logo="" group-title="|LA| LATINO",|LATIN| TBS
-http://rv.therevenge.co:80/0130885299/2961241360/87035
+http://rv.therevenge.co:80/8337291577/0410419338/87035
 #EXTINF:-1 tvg-id="" tvg-name="|LATIN| TELEMUNDO INTERNACIONAL" tvg-logo="" group-title="|LA| LATINO",|LATIN| TELEMUNDO INTERNACIONAL
-http://rv.therevenge.co:80/0130885299/2961241360/87034
+http://rv.therevenge.co:80/8337291577/0410419338/87034
 #EXTINF:-1 tvg-id="" tvg-name="|LATIN| UNIMAS" tvg-logo="" group-title="|LA| LATINO",|LATIN| UNIMAS
-http://rv.therevenge.co:80/0130885299/2961241360/87033
+http://rv.therevenge.co:80/8337291577/0410419338/87033
 #EXTINF:-1 tvg-id="" tvg-name="|LATIN| ISAT" tvg-logo="" group-title="|LA| LATINO",|LATIN| ISAT
-http://rv.therevenge.co:80/0130885299/2961241360/87032
+http://rv.therevenge.co:80/8337291577/0410419338/87032
 #EXTINF:-1 tvg-id="" tvg-name="|LATIN| PASIONES" tvg-logo="" group-title="|LA| LATINO",|LATIN| PASIONES
-http://rv.therevenge.co:80/0130885299/2961241360/87031
+http://rv.therevenge.co:80/8337291577/0410419338/87031
 #EXTINF:-1 tvg-id="" tvg-name="##### |LATIN| MOVIES #####" tvg-logo="" group-title="|LA| LATINO",##### |LATIN| MOVIES #####
-http://rv.therevenge.co:80/0130885299/2961241360/87030
+http://rv.therevenge.co:80/8337291577/0410419338/87030
 #EXTINF:-1 tvg-id="" tvg-name="|LATIN| HBO" tvg-logo="" group-title="|LA| LATINO",|LATIN| HBO
-http://rv.therevenge.co:80/0130885299/2961241360/87029
+http://rv.therevenge.co:80/8337291577/0410419338/87029
 #EXTINF:-1 tvg-id="" tvg-name="|LATIN| HBO 2" tvg-logo="" group-title="|LA| LATINO",|LATIN| HBO 2
-http://rv.therevenge.co:80/0130885299/2961241360/87028
+http://rv.therevenge.co:80/8337291577/0410419338/87028
 #EXTINF:-1 tvg-id="" tvg-name="|LATIN| HBO PLUS" tvg-logo="" group-title="|LA| LATINO",|LATIN| HBO PLUS
-http://rv.therevenge.co:80/0130885299/2961241360/87027
+http://rv.therevenge.co:80/8337291577/0410419338/87027
 #EXTINF:-1 tvg-id="" tvg-name="|LATIN| HBO FAMILY" tvg-logo="" group-title="|LA| LATINO",|LATIN| HBO FAMILY
-http://rv.therevenge.co:80/0130885299/2961241360/87026
+http://rv.therevenge.co:80/8337291577/0410419338/87026
 #EXTINF:-1 tvg-id="" tvg-name="|LATIN| HBO SIGNATURE" tvg-logo="" group-title="|LA| LATINO",|LATIN| HBO SIGNATURE
-http://rv.therevenge.co:80/0130885299/2961241360/87025
+http://rv.therevenge.co:80/8337291577/0410419338/87025
 #EXTINF:-1 tvg-id="" tvg-name="|LATIN| HBO ESTE" tvg-logo="" group-title="|LA| LATINO",|LATIN| HBO ESTE
-http://rv.therevenge.co:80/0130885299/2961241360/87024
+http://rv.therevenge.co:80/8337291577/0410419338/87024
 #EXTINF:-1 tvg-id="" tvg-name="|LATIN| FOX PREMIUM MOVIES" tvg-logo="" group-title="|LA| LATINO",|LATIN| FOX PREMIUM MOVIES
-http://rv.therevenge.co:80/0130885299/2961241360/87023
+http://rv.therevenge.co:80/8337291577/0410419338/87023
 #EXTINF:-1 tvg-id="" tvg-name="|LATIN| FOX PREMIUM CINEMA" tvg-logo="" group-title="|LA| LATINO",|LATIN| FOX PREMIUM CINEMA
-http://rv.therevenge.co:80/0130885299/2961241360/87022
+http://rv.therevenge.co:80/8337291577/0410419338/87022
 #EXTINF:-1 tvg-id="" tvg-name="|LATIN| FOX PREMIUM ACTION" tvg-logo="" group-title="|LA| LATINO",|LATIN| FOX PREMIUM ACTION
-http://rv.therevenge.co:80/0130885299/2961241360/87021
+http://rv.therevenge.co:80/8337291577/0410419338/87021
 #EXTINF:-1 tvg-id="" tvg-name="|LATIN| FOX PREMIUM COMEDY" tvg-logo="" group-title="|LA| LATINO",|LATIN| FOX PREMIUM COMEDY
-http://rv.therevenge.co:80/0130885299/2961241360/87020
+http://rv.therevenge.co:80/8337291577/0410419338/87020
 #EXTINF:-1 tvg-id="" tvg-name="|LATIN| FOX PREMIUM FAMILY" tvg-logo="" group-title="|LA| LATINO",|LATIN| FOX PREMIUM FAMILY
-http://rv.therevenge.co:80/0130885299/2961241360/87019
+http://rv.therevenge.co:80/8337291577/0410419338/87019
 #EXTINF:-1 tvg-id="" tvg-name="|LATIN| FOX PREMIUM SERIES" tvg-logo="" group-title="|LA| LATINO",|LATIN| FOX PREMIUM SERIES
-http://rv.therevenge.co:80/0130885299/2961241360/87018
+http://rv.therevenge.co:80/8337291577/0410419338/87018
 #EXTINF:-1 tvg-id="" tvg-name="|LATIN| UNIVISION" tvg-logo="" group-title="|LA| LATINO",|LATIN| UNIVISION
-http://rv.therevenge.co:80/0130885299/2961241360/87017
+http://rv.therevenge.co:80/8337291577/0410419338/87017
 #EXTINF:-1 tvg-id="" tvg-name="|LATIN| UNIVISION TELENOVELAS" tvg-logo="" group-title="|LA| LATINO",|LATIN| UNIVISION TELENOVELAS
-http://rv.therevenge.co:80/0130885299/2961241360/87016
+http://rv.therevenge.co:80/8337291577/0410419338/87016
 #EXTINF:-1 tvg-id="" tvg-name="|LATIN| TELENOVELAS" tvg-logo="" group-title="|LA| LATINO",|LATIN| TELENOVELAS
-http://rv.therevenge.co:80/0130885299/2961241360/87015
+http://rv.therevenge.co:80/8337291577/0410419338/87015
 #EXTINF:-1 tvg-id="" tvg-name="|LATIN| UNICABLE" tvg-logo="" group-title="|LA| LATINO",|LATIN| UNICABLE
-http://rv.therevenge.co:80/0130885299/2961241360/87014
+http://rv.therevenge.co:80/8337291577/0410419338/87014
 #EXTINF:-1 tvg-id="" tvg-name="|LATIN| TELEMUNDO" tvg-logo="" group-title="|LA| LATINO",|LATIN| TELEMUNDO
-http://rv.therevenge.co:80/0130885299/2961241360/87013
+http://rv.therevenge.co:80/8337291577/0410419338/87013
 #EXTINF:-1 tvg-id="" tvg-name="|LATIN| TLC" tvg-logo="" group-title="|LA| LATINO",|LATIN| TLC
-http://rv.therevenge.co:80/0130885299/2961241360/87012
+http://rv.therevenge.co:80/8337291577/0410419338/87012
 #EXTINF:-1 tvg-id="" tvg-name="|LATIN| SYFY" tvg-logo="" group-title="|LA| LATINO",|LATIN| SYFY
-http://rv.therevenge.co:80/0130885299/2961241360/87011
+http://rv.therevenge.co:80/8337291577/0410419338/87011
 #EXTINF:-1 tvg-id="" tvg-name="|LATIN| FX" tvg-logo="" group-title="|LA| LATINO",|LATIN| FX
-http://rv.therevenge.co:80/0130885299/2961241360/87010
+http://rv.therevenge.co:80/8337291577/0410419338/87010
 #EXTINF:-1 tvg-id="" tvg-name="|LATIN| FOX" tvg-logo="" group-title="|LA| LATINO",|LATIN| FOX
-http://rv.therevenge.co:80/0130885299/2961241360/87009
+http://rv.therevenge.co:80/8337291577/0410419338/87009
 #EXTINF:-1 tvg-id="" tvg-name="|LATIN| FOX ACTION" tvg-logo="" group-title="|LA| LATINO",|LATIN| FOX ACTION
-http://rv.therevenge.co:80/0130885299/2961241360/87008
+http://rv.therevenge.co:80/8337291577/0410419338/87008
 #EXTINF:-1 tvg-id="" tvg-name="|LATIN| FOX CINEMA" tvg-logo="" group-title="|LA| LATINO",|LATIN| FOX CINEMA
-http://rv.therevenge.co:80/0130885299/2961241360/87007
+http://rv.therevenge.co:80/8337291577/0410419338/87007
 #EXTINF:-1 tvg-id="" tvg-name="|LATIN| FOX CLASSIC" tvg-logo="" group-title="|LA| LATINO",|LATIN| FOX CLASSIC
-http://rv.therevenge.co:80/0130885299/2961241360/87006
+http://rv.therevenge.co:80/8337291577/0410419338/87006
 #EXTINF:-1 tvg-id="" tvg-name="|LATIN| FOX LIFE" tvg-logo="" group-title="|LA| LATINO",|LATIN| FOX LIFE
-http://rv.therevenge.co:80/0130885299/2961241360/87005
+http://rv.therevenge.co:80/8337291577/0410419338/87005
 #EXTINF:-1 tvg-id="" tvg-name="|LATIN| FOX MOVIES" tvg-logo="" group-title="|LA| LATINO",|LATIN| FOX MOVIES
-http://rv.therevenge.co:80/0130885299/2961241360/87004
+http://rv.therevenge.co:80/8337291577/0410419338/87004
 #EXTINF:-1 tvg-id="" tvg-name="|LATIN| AMC" tvg-logo="" group-title="|LA| LATINO",|LATIN| AMC
-http://rv.therevenge.co:80/0130885299/2961241360/87003
+http://rv.therevenge.co:80/8337291577/0410419338/87003
 #EXTINF:-1 tvg-id="" tvg-name="|LATIN| AXN" tvg-logo="" group-title="|LA| LATINO",|LATIN| AXN
-http://rv.therevenge.co:80/0130885299/2961241360/87002
+http://rv.therevenge.co:80/8337291577/0410419338/87002
 #EXTINF:-1 tvg-id="" tvg-name="|LATIN| GALA TV" tvg-logo="" group-title="|LA| LATINO",|LATIN| GALA TV
-http://rv.therevenge.co:80/0130885299/2961241360/87001
+http://rv.therevenge.co:80/8337291577/0410419338/87001
 #EXTINF:-1 tvg-id="" tvg-name="|LATIN| UNIVERSAL CHANNEL" tvg-logo="" group-title="|LA| LATINO",|LATIN| UNIVERSAL CHANNEL
-http://rv.therevenge.co:80/0130885299/2961241360/87000
+http://rv.therevenge.co:80/8337291577/0410419338/87000
 #EXTINF:-1 tvg-id="" tvg-name="|LATIN| AZ UNO" tvg-logo="" group-title="|LA| LATINO",|LATIN| AZ UNO
-http://rv.therevenge.co:80/0130885299/2961241360/86999
+http://rv.therevenge.co:80/8337291577/0410419338/86999
 #EXTINF:-1 tvg-id="" tvg-name="|LATIN| AZ MAS" tvg-logo="" group-title="|LA| LATINO",|LATIN| AZ MAS
-http://rv.therevenge.co:80/0130885299/2961241360/86998
+http://rv.therevenge.co:80/8337291577/0410419338/86998
 #EXTINF:-1 tvg-id="" tvg-name="|LATIN| AZTECA 7" tvg-logo="" group-title="|LA| LATINO",|LATIN| AZTECA 7
-http://rv.therevenge.co:80/0130885299/2961241360/86997
+http://rv.therevenge.co:80/8337291577/0410419338/86997
 #EXTINF:-1 tvg-id="" tvg-name="|LATIN| AZTECA CINEMA" tvg-logo="" group-title="|LA| LATINO",|LATIN| AZTECA CINEMA
-http://rv.therevenge.co:80/0130885299/2961241360/86996
+http://rv.therevenge.co:80/8337291577/0410419338/86996
 #EXTINF:-1 tvg-id="" tvg-name="|LATIN| AZTECA CORAZON" tvg-logo="" group-title="|LA| LATINO",|LATIN| AZTECA CORAZON
-http://rv.therevenge.co:80/0130885299/2961241360/86995
+http://rv.therevenge.co:80/8337291577/0410419338/86995
 #EXTINF:-1 tvg-id="" tvg-name="|LATIN| AZTECA CLIC" tvg-logo="" group-title="|LA| LATINO",|LATIN| AZTECA CLIC
-http://rv.therevenge.co:80/0130885299/2961241360/86994
+http://rv.therevenge.co:80/8337291577/0410419338/86994
 #EXTINF:-1 tvg-id="" tvg-name="|LATIN| CINE CANAL" tvg-logo="" group-title="|LA| LATINO",|LATIN| CINE CANAL
-http://rv.therevenge.co:80/0130885299/2961241360/86993
+http://rv.therevenge.co:80/8337291577/0410419338/86993
 #EXTINF:-1 tvg-id="" tvg-name="|LATIN| MULTIPREMIER" tvg-logo="" group-title="|LA| LATINO",|LATIN| MULTIPREMIER
-http://rv.therevenge.co:80/0130885299/2961241360/86992
+http://rv.therevenge.co:80/8337291577/0410419338/86992
 #EXTINF:-1 tvg-id="" tvg-name="|LATIN| DHE" tvg-logo="" group-title="|LA| LATINO",|LATIN| DHE
-http://rv.therevenge.co:80/0130885299/2961241360/86991
+http://rv.therevenge.co:80/8337291577/0410419338/86991
 #EXTINF:-1 tvg-id="" tvg-name="|LATIN| WARNER CHANNEL" tvg-logo="" group-title="|LA| LATINO",|LATIN| WARNER CHANNEL
-http://rv.therevenge.co:80/0130885299/2961241360/86990
+http://rv.therevenge.co:80/8337291577/0410419338/86990
 #EXTINF:-1 tvg-id="" tvg-name="|LATIN| CLARO CINEMA" tvg-logo="" group-title="|LA| LATINO",|LATIN| CLARO CINEMA
-http://rv.therevenge.co:80/0130885299/2961241360/86989
+http://rv.therevenge.co:80/8337291577/0410419338/86989
 #EXTINF:-1 tvg-id="" tvg-name="|LATIN| GOLDEN PREMIER" tvg-logo="" group-title="|LA| LATINO",|LATIN| GOLDEN PREMIER
-http://rv.therevenge.co:80/0130885299/2961241360/86988
+http://rv.therevenge.co:80/8337291577/0410419338/86988
 #EXTINF:-1 tvg-id="" tvg-name="|LATIN| PARAMOUNT" tvg-logo="" group-title="|LA| LATINO",|LATIN| PARAMOUNT
-http://rv.therevenge.co:80/0130885299/2961241360/86987
+http://rv.therevenge.co:80/8337291577/0410419338/86987
 #EXTINF:-1 tvg-id="" tvg-name="|LATIN| SONY" tvg-logo="" group-title="|LA| LATINO",|LATIN| SONY
-http://rv.therevenge.co:80/0130885299/2961241360/86986
+http://rv.therevenge.co:80/8337291577/0410419338/86986
 #EXTINF:-1 tvg-id="" tvg-name="|LATIN| SPACE" tvg-logo="" group-title="|LA| LATINO",|LATIN| SPACE
-http://rv.therevenge.co:80/0130885299/2961241360/86985
+http://rv.therevenge.co:80/8337291577/0410419338/86985
 #EXTINF:-1 tvg-id="" tvg-name="|LATIN| STUDIO UNIVERSAL" tvg-logo="" group-title="|LA| LATINO",|LATIN| STUDIO UNIVERSAL
-http://rv.therevenge.co:80/0130885299/2961241360/86984
+http://rv.therevenge.co:80/8337291577/0410419338/86984
 #EXTINF:-1 tvg-id="" tvg-name="|LATIN| TCM" tvg-logo="" group-title="|LA| LATINO",|LATIN| TCM
-http://rv.therevenge.co:80/0130885299/2961241360/86983
+http://rv.therevenge.co:80/8337291577/0410419338/86983
 #EXTINF:-1 tvg-id="" tvg-name="|LATIN| TNT SERIES" tvg-logo="" group-title="|LA| LATINO",|LATIN| TNT SERIES
-http://rv.therevenge.co:80/0130885299/2961241360/86982
+http://rv.therevenge.co:80/8337291577/0410419338/86982
 #EXTINF:-1 tvg-id="" tvg-name="|LATIN| TNT" tvg-logo="" group-title="|LA| LATINO",|LATIN| TNT
-http://rv.therevenge.co:80/0130885299/2961241360/86981
+http://rv.therevenge.co:80/8337291577/0410419338/86981
 #EXTINF:-1 tvg-id="" tvg-name="|LATIN| GOLDEN EDGE" tvg-logo="" group-title="|LA| LATINO",|LATIN| GOLDEN EDGE
-http://rv.therevenge.co:80/0130885299/2961241360/86980
+http://rv.therevenge.co:80/8337291577/0410419338/86980
 #EXTINF:-1 tvg-id="" tvg-name="|LATIN| GOLDEN" tvg-logo="" group-title="|LA| LATINO",|LATIN| GOLDEN
-http://rv.therevenge.co:80/0130885299/2961241360/86979
+http://rv.therevenge.co:80/8337291577/0410419338/86979
 #EXTINF:-1 tvg-id="" tvg-name="|LATIN| MAX UP" tvg-logo="" group-title="|LA| LATINO",|LATIN| MAX UP
-http://rv.therevenge.co:80/0130885299/2961241360/86978
+http://rv.therevenge.co:80/8337291577/0410419338/86978
 #EXTINF:-1 tvg-id="" tvg-name="##### |LATIN| ENTERTAINMENTS #####" tvg-logo="" group-title="|LA| LATINO",##### |LATIN| ENTERTAINMENTS #####
-http://rv.therevenge.co:80/0130885299/2961241360/86977
+http://rv.therevenge.co:80/8337291577/0410419338/86977
 #EXTINF:-1 tvg-id="" tvg-name="|LATIN| CINEMA DINAMITA" tvg-logo="" group-title="|LA| LATINO",|LATIN| CINEMA DINAMITA
-http://rv.therevenge.co:80/0130885299/2961241360/86976
+http://rv.therevenge.co:80/8337291577/0410419338/86976
 #EXTINF:-1 tvg-id="" tvg-name="|LATIN| A&E" tvg-logo="" group-title="|LA| LATINO",|LATIN| A&E
-http://rv.therevenge.co:80/0130885299/2961241360/86975
+http://rv.therevenge.co:80/8337291577/0410419338/86975
 #EXTINF:-1 tvg-id="" tvg-name="|LATIN| MASCHIC" tvg-logo="" group-title="|LA| LATINO",|LATIN| MASCHIC
-http://rv.therevenge.co:80/0130885299/2961241360/86974
+http://rv.therevenge.co:80/8337291577/0410419338/86974
 #EXTINF:-1 tvg-id="" tvg-name="|LATIN| DISTRITO COMEDIA" tvg-logo="" group-title="|LA| LATINO",|LATIN| DISTRITO COMEDIA
-http://rv.therevenge.co:80/0130885299/2961241360/86973
+http://rv.therevenge.co:80/8337291577/0410419338/86973
 #EXTINF:-1 tvg-id="" tvg-name="|LATIN| E! ENTERTAINMENT" tvg-logo="" group-title="|LA| LATINO",|LATIN| E! ENTERTAINMENT
-http://rv.therevenge.co:80/0130885299/2961241360/86972
+http://rv.therevenge.co:80/8337291577/0410419338/86972
 #EXTINF:-1 tvg-id="" tvg-name="|LATIN| TRU TV" tvg-logo="" group-title="|LA| LATINO",|LATIN| TRU TV
-http://rv.therevenge.co:80/0130885299/2961241360/86971
+http://rv.therevenge.co:80/8337291577/0410419338/86971
 #EXTINF:-1 tvg-id="" tvg-name="|LATIN| GOURMET" tvg-logo="" group-title="|LA| LATINO",|LATIN| GOURMET
-http://rv.therevenge.co:80/0130885299/2961241360/86970
+http://rv.therevenge.co:80/8337291577/0410419338/86970
 #EXTINF:-1 tvg-id="" tvg-name="##### |LATIN| KIDS #####" tvg-logo="" group-title="|LA| LATINO",##### |LATIN| KIDS #####
-http://rv.therevenge.co:80/0130885299/2961241360/86969
+http://rv.therevenge.co:80/8337291577/0410419338/86969
 #EXTINF:-1 tvg-id="" tvg-name="|LATIN| DISNEY CHANNEL." tvg-logo="" group-title="|LA| LATINO",|LATIN| DISNEY CHANNEL.
-http://rv.therevenge.co:80/0130885299/2961241360/86968
+http://rv.therevenge.co:80/8337291577/0410419338/86968
 #EXTINF:-1 tvg-id="" tvg-name="|LATIN| DISNEY JR" tvg-logo="" group-title="|LA| LATINO",|LATIN| DISNEY JR
-http://rv.therevenge.co:80/0130885299/2961241360/86967
+http://rv.therevenge.co:80/8337291577/0410419338/86967
 #EXTINF:-1 tvg-id="" tvg-name="|LATIN| NICK JR" tvg-logo="" group-title="|LA| LATINO",|LATIN| NICK JR
-http://rv.therevenge.co:80/0130885299/2961241360/86966
+http://rv.therevenge.co:80/8337291577/0410419338/86966
 #EXTINF:-1 tvg-id="" tvg-name="|LATIN| NICK 2" tvg-logo="" group-title="|LA| LATINO",|LATIN| NICK 2
-http://rv.therevenge.co:80/0130885299/2961241360/86965
+http://rv.therevenge.co:80/8337291577/0410419338/86965
 #EXTINF:-1 tvg-id="" tvg-name="|LATIN| DISNEY XD" tvg-logo="" group-title="|LA| LATINO",|LATIN| DISNEY XD
-http://rv.therevenge.co:80/0130885299/2961241360/86964
+http://rv.therevenge.co:80/8337291577/0410419338/86964
 #EXTINF:-1 tvg-id="" tvg-name="|LATIN| NICKELODEON" tvg-logo="" group-title="|LA| LATINO",|LATIN| NICKELODEON
-http://rv.therevenge.co:80/0130885299/2961241360/86963
+http://rv.therevenge.co:80/8337291577/0410419338/86963
 #EXTINF:-1 tvg-id="" tvg-name="|LATIN| COMEDY CENTRAL" tvg-logo="" group-title="|LA| LATINO",|LATIN| COMEDY CENTRAL
-http://rv.therevenge.co:80/0130885299/2961241360/86962
+http://rv.therevenge.co:80/8337291577/0410419338/86962
 #EXTINF:-1 tvg-id="" tvg-name="|LATIN| BOOMERANG" tvg-logo="" group-title="|LA| LATINO",|LATIN| BOOMERANG
-http://rv.therevenge.co:80/0130885299/2961241360/86961
+http://rv.therevenge.co:80/8337291577/0410419338/86961
 #EXTINF:-1 tvg-id="" tvg-name="|LATIN| CANAL 11" tvg-logo="" group-title="|LA| LATINO",|LATIN| CANAL 11
-http://rv.therevenge.co:80/0130885299/2961241360/86960
+http://rv.therevenge.co:80/8337291577/0410419338/86960
 #EXTINF:-1 tvg-id="" tvg-name="|LATIN| CANAL 5" tvg-logo="" group-title="|LA| LATINO",|LATIN| CANAL 5
-http://rv.therevenge.co:80/0130885299/2961241360/86959
+http://rv.therevenge.co:80/8337291577/0410419338/86959
 #EXTINF:-1 tvg-id="" tvg-name="|LATIN| CANAL DE LAS ESTRELLAS." tvg-logo="" group-title="|LA| LATINO",|LATIN| CANAL DE LAS ESTRELLAS.
-http://rv.therevenge.co:80/0130885299/2961241360/86958
+http://rv.therevenge.co:80/8337291577/0410419338/86958
 #EXTINF:-1 tvg-id="" tvg-name="|LATIN| CARTOON NETWORK" tvg-logo="" group-title="|LA| LATINO",|LATIN| CARTOON NETWORK
-http://rv.therevenge.co:80/0130885299/2961241360/86957
+http://rv.therevenge.co:80/8337291577/0410419338/86957
 #EXTINF:-1 tvg-id="" tvg-name="|LATIN| CINE MAX" tvg-logo="" group-title="|LA| LATINO",|LATIN| CINE MAX
-http://rv.therevenge.co:80/0130885299/2961241360/86956
+http://rv.therevenge.co:80/8337291577/0410419338/86956
 #EXTINF:-1 tvg-id="" tvg-name="|LATIN| ONCE" tvg-logo="" group-title="|LA| LATINO",|LATIN| ONCE
-http://rv.therevenge.co:80/0130885299/2961241360/86955
+http://rv.therevenge.co:80/8337291577/0410419338/86955
 #EXTINF:-1 tvg-id="" tvg-name="##### |LATIN| DOCUMENTARY #####" tvg-logo="" group-title="|LA| LATINO",##### |LATIN| DOCUMENTARY #####
-http://rv.therevenge.co:80/0130885299/2961241360/86954
+http://rv.therevenge.co:80/8337291577/0410419338/86954
 #EXTINF:-1 tvg-id="" tvg-name="|LATIN| NAT GEO" tvg-logo="" group-title="|LA| LATINO",|LATIN| NAT GEO
-http://rv.therevenge.co:80/0130885299/2961241360/86953
+http://rv.therevenge.co:80/8337291577/0410419338/86953
 #EXTINF:-1 tvg-id="" tvg-name="|LATIN| NAT GEO WILD" tvg-logo="" group-title="|LA| LATINO",|LATIN| NAT GEO WILD
-http://rv.therevenge.co:80/0130885299/2961241360/86952
+http://rv.therevenge.co:80/8337291577/0410419338/86952
 #EXTINF:-1 tvg-id="" tvg-name="|LATIN| DISCOVERY CHANNEL" tvg-logo="" group-title="|LA| LATINO",|LATIN| DISCOVERY CHANNEL
-http://rv.therevenge.co:80/0130885299/2961241360/86951
+http://rv.therevenge.co:80/8337291577/0410419338/86951
 #EXTINF:-1 tvg-id="" tvg-name="|LATIN| DISCOVERY INVESTIGATION" tvg-logo="" group-title="|LA| LATINO",|LATIN| DISCOVERY INVESTIGATION
-http://rv.therevenge.co:80/0130885299/2961241360/86950
+http://rv.therevenge.co:80/8337291577/0410419338/86950
 #EXTINF:-1 tvg-id="" tvg-name="|LATIN| DISCOVERY HOME&HEALTH" tvg-logo="" group-title="|LA| LATINO",|LATIN| DISCOVERY HOME&HEALTH
-http://rv.therevenge.co:80/0130885299/2961241360/86949
+http://rv.therevenge.co:80/8337291577/0410419338/86949
 #EXTINF:-1 tvg-id="" tvg-name="|LATIN| DISCOVERY KIDS" tvg-logo="" group-title="|LA| LATINO",|LATIN| DISCOVERY KIDS
-http://rv.therevenge.co:80/0130885299/2961241360/86948
+http://rv.therevenge.co:80/8337291577/0410419338/86948
 #EXTINF:-1 tvg-id="" tvg-name="|LATIN| DISCOVERY TURBO" tvg-logo="" group-title="|LA| LATINO",|LATIN| DISCOVERY TURBO
-http://rv.therevenge.co:80/0130885299/2961241360/86947
+http://rv.therevenge.co:80/8337291577/0410419338/86947
 #EXTINF:-1 tvg-id="" tvg-name="|LATIN| DISCOVERY THEATER" tvg-logo="" group-title="|LA| LATINO",|LATIN| DISCOVERY THEATER
-http://rv.therevenge.co:80/0130885299/2961241360/86946
+http://rv.therevenge.co:80/8337291577/0410419338/86946
 #EXTINF:-1 tvg-id="" tvg-name="|LATIN| DISCOVERY SCIENCE" tvg-logo="" group-title="|LA| LATINO",|LATIN| DISCOVERY SCIENCE
-http://rv.therevenge.co:80/0130885299/2961241360/86945
+http://rv.therevenge.co:80/8337291577/0410419338/86945
 #EXTINF:-1 tvg-id="" tvg-name="|LATIN| ANIMAL PLANET" tvg-logo="" group-title="|LA| LATINO",|LATIN| ANIMAL PLANET
-http://rv.therevenge.co:80/0130885299/2961241360/86944
+http://rv.therevenge.co:80/8337291577/0410419338/86944
 #EXTINF:-1 tvg-id="" tvg-name="|LATIN| HISTORY" tvg-logo="" group-title="|LA| LATINO",|LATIN| HISTORY
-http://rv.therevenge.co:80/0130885299/2961241360/86943
+http://rv.therevenge.co:80/8337291577/0410419338/86943
 #EXTINF:-1 tvg-id="" tvg-name="|LATIN| ID" tvg-logo="" group-title="|LA| LATINO",|LATIN| ID
-http://rv.therevenge.co:80/0130885299/2961241360/86942
+http://rv.therevenge.co:80/8337291577/0410419338/86942
 #EXTINF:-1 tvg-id="" tvg-name="|LATIN| H2" tvg-logo="" group-title="|LA| LATINO",|LATIN| H2
-http://rv.therevenge.co:80/0130885299/2961241360/86941
+http://rv.therevenge.co:80/8337291577/0410419338/86941
 #EXTINF:-1 tvg-id="" tvg-name="##### |LATIN| SPORTS #####" tvg-logo="" group-title="|LA| LATINO",##### |LATIN| SPORTS #####
-http://rv.therevenge.co:80/0130885299/2961241360/86940
+http://rv.therevenge.co:80/8337291577/0410419338/86940
 #EXTINF:-1 tvg-id="" tvg-name="|LATIN| ESPN" tvg-logo="" group-title="|LA| LATINO",|LATIN| ESPN
-http://rv.therevenge.co:80/0130885299/2961241360/86939
+http://rv.therevenge.co:80/8337291577/0410419338/86939
 #EXTINF:-1 tvg-id="" tvg-name="|LATIN| ESPN 2." tvg-logo="" group-title="|LA| LATINO",|LATIN| ESPN 2.
-http://rv.therevenge.co:80/0130885299/2961241360/86938
+http://rv.therevenge.co:80/8337291577/0410419338/86938
 #EXTINF:-1 tvg-id="" tvg-name="|LATIN| ESPN 3" tvg-logo="" group-title="|LA| LATINO",|LATIN| ESPN 3
-http://rv.therevenge.co:80/0130885299/2961241360/86937
+http://rv.therevenge.co:80/8337291577/0410419338/86937
 #EXTINF:-1 tvg-id="" tvg-name="|LATIN| FOX SPORT" tvg-logo="" group-title="|LA| LATINO",|LATIN| FOX SPORT
-http://rv.therevenge.co:80/0130885299/2961241360/86936
+http://rv.therevenge.co:80/8337291577/0410419338/86936
 #EXTINF:-1 tvg-id="" tvg-name="|LATIN| FOX SPORT 2" tvg-logo="" group-title="|LA| LATINO",|LATIN| FOX SPORT 2
-http://rv.therevenge.co:80/0130885299/2961241360/86935
+http://rv.therevenge.co:80/8337291577/0410419338/86935
 #EXTINF:-1 tvg-id="" tvg-name="|LATIN| UNIVISION DEPORTES" tvg-logo="" group-title="|LA| LATINO",|LATIN| UNIVISION DEPORTES
-http://rv.therevenge.co:80/0130885299/2961241360/86934
+http://rv.therevenge.co:80/8337291577/0410419338/86934
 #EXTINF:-1 tvg-id="" tvg-name="|LATIN| CLARO SPORT 2" tvg-logo="" group-title="|LA| LATINO",|LATIN| CLARO SPORT 2
-http://rv.therevenge.co:80/0130885299/2961241360/86933
+http://rv.therevenge.co:80/8337291577/0410419338/86933
 #EXTINF:-1 tvg-id="" tvg-name="|LATIN| WIN SPORT HD" tvg-logo="" group-title="|LA| LATINO",|LATIN| WIN SPORT HD
-http://rv.therevenge.co:80/0130885299/2961241360/86932
+http://rv.therevenge.co:80/8337291577/0410419338/86932
 #EXTINF:-1 tvg-id="" tvg-name="|LATIN| CLARO SPORT" tvg-logo="" group-title="|LA| LATINO",|LATIN| CLARO SPORT
-http://rv.therevenge.co:80/0130885299/2961241360/86931
+http://rv.therevenge.co:80/8337291577/0410419338/86931
 #EXTINF:-1 tvg-id="" tvg-name="##### |LATIN| NEWS #####" tvg-logo="" group-title="|LA| LATINO",##### |LATIN| NEWS #####
-http://rv.therevenge.co:80/0130885299/2961241360/86930
+http://rv.therevenge.co:80/8337291577/0410419338/86930
 #EXTINF:-1 tvg-id="" tvg-name="|LATIN| CNN" tvg-logo="" group-title="|LA| LATINO",|LATIN| CNN
-http://rv.therevenge.co:80/0130885299/2961241360/86929
+http://rv.therevenge.co:80/8337291577/0410419338/86929
 #EXTINF:-1 tvg-id="" tvg-name="##### |LATIN| MUSIC #####" tvg-logo="" group-title="|LA| LATINO",##### |LATIN| MUSIC #####
-http://rv.therevenge.co:80/0130885299/2961241360/86928
+http://rv.therevenge.co:80/8337291577/0410419338/86928
 #EXTINF:-1 tvg-id="" tvg-name="|LATIN| LATINOS1 HD" tvg-logo="" group-title="|LA| LATINO",|LATIN| LATINOS1 HD
-http://rv.therevenge.co:80/0130885299/2961241360/86927
+http://rv.therevenge.co:80/8337291577/0410419338/86927
 #EXTINF:-1 tvg-id="" tvg-name="|LATIN| HTV" tvg-logo="" group-title="|LA| LATINO",|LATIN| HTV
-http://rv.therevenge.co:80/0130885299/2961241360/86926
+http://rv.therevenge.co:80/8337291577/0410419338/86926
 #EXTINF:-1 tvg-id="" tvg-name="|LATIN| TUMUSICA" tvg-logo="" group-title="|LA| LATINO",|LATIN| TUMUSICA
-http://rv.therevenge.co:80/0130885299/2961241360/86925
+http://rv.therevenge.co:80/8337291577/0410419338/86925
 #EXTINF:-1 tvg-id="" tvg-name="|LATIN| MTV" tvg-logo="" group-title="|LA| LATINO",|LATIN| MTV
-http://rv.therevenge.co:80/0130885299/2961241360/86924
+http://rv.therevenge.co:80/8337291577/0410419338/86924
 #EXTINF:-1 tvg-id="" tvg-name="|LATIN| SUNDANCE" tvg-logo="" group-title="|LA| LATINO",|LATIN| SUNDANCE
-http://rv.therevenge.co:80/0130885299/2961241360/86923
+http://rv.therevenge.co:80/8337291577/0410419338/86923
 #EXTINF:-1 tvg-id="" tvg-name="|LATIN| VH1" tvg-logo="" group-title="|LA| LATINO",|LATIN| VH1
-http://rv.therevenge.co:80/0130885299/2961241360/86922
+http://rv.therevenge.co:80/8337291577/0410419338/86922
