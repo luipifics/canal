@@ -106,71 +106,71 @@ http://cdn.boxter.live:8081/cine/SPACE/playlist.m3u8
 http://cdn.boxter.live:8081/cine/CINEMAX/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="------- Movies & Series -------" tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg" group-title="Latin America",------- Movies & Series -------
-http://tv.fulliptvserver.mydns.live:8080/rq9jo5zfn9/mo433mn4ra/688534
+http://tv.fulliptvserver.mydns.live:8080/9359bryf47/zl128mc5h8/688534
 #EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS Star Cinema FHD LAM
-http://tv.fulliptvserver.mydns.live:8080/rq9jo5zfn9/mo433mn4ra/6715
+http://tv.fulliptvserver.mydns.live:8080/9359bryf47/zl128mc5h8/6715
 #EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS Star Action HD LAM
-http://tv.fulliptvserver.mydns.live:8080/rq9jo5zfn9/mo433mn4ra/6714
+http://tv.fulliptvserver.mydns.live:8080/9359bryf47/zl128mc5h8/6714
 #EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS Star Classics FHD LAM
-http://tv.fulliptvserver.mydns.live:8080/rq9jo5zfn9/mo433mn4ra/6716
+http://tv.fulliptvserver.mydns.live:8080/9359bryf47/zl128mc5h8/6716
 #EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS Star Hits FHD LAM
-http://tv.fulliptvserver.mydns.live:8080/rq9jo5zfn9/mo433mn4ra/6720
+http://tv.fulliptvserver.mydns.live:8080/9359bryf47/zl128mc5h8/6720
 #EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS Star Series LAM
-http://tv.fulliptvserver.mydns.live:8080/rq9jo5zfn9/mo433mn4ra/6718
+http://tv.fulliptvserver.mydns.live:8080/9359bryf47/zl128mc5h8/6718
 #EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS Star Life FHD LAM
-http://tv.fulliptvserver.mydns.live:8080/rq9jo5zfn9/mo433mn4ra/6719
+http://tv.fulliptvserver.mydns.live:8080/9359bryf47/zl128mc5h8/6719
 #EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS Latin America",Golden MX
-http://tv.fulliptvserver.mydns.live:8080/rq9jo5zfn9/mo433mn4ra/6727
+http://tv.fulliptvserver.mydns.live:8080/9359bryf47/zl128mc5h8/6727
 #EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS Golden Edge MX
-http://tv.fulliptvserver.mydns.live:8080/rq9jo5zfn9/mo433mn4ra/6728
+http://tv.fulliptvserver.mydns.live:8080/9359bryf47/zl128mc5h8/6728
 #EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS Studio Universal MX
-http://tv.fulliptvserver.mydns.live:8080/rq9jo5zfn9/mo433mn4ra/6741
+http://tv.fulliptvserver.mydns.live:8080/9359bryf47/zl128mc5h8/6741
 #EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS TNT Series FHD LAM
-http://tv.fulliptvserver.mydns.live:8080/rq9jo5zfn9/mo433mn4ra/6750
+http://tv.fulliptvserver.mydns.live:8080/9359bryf47/zl128mc5h8/6750
 #EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS SyFy FHD LAM
-http://tv.fulliptvserver.mydns.live:8080/rq9jo5zfn9/mo433mn4ra/6742
+http://tv.fulliptvserver.mydns.live:8080/9359bryf47/zl128mc5h8/6742
 #EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS Latin America",Space FHD MX
-http://tv.fulliptvserver.mydns.live:8080/rq9jo5zfn9/mo433mn4ra/6740
+http://tv.fulliptvserver.mydns.live:8080/9359bryf47/zl128mc5h8/6740
 #EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS TCM LAM
-http://tv.fulliptvserver.mydns.live:8080/rq9jo5zfn9/mo433mn4ra/6758
+http://tv.fulliptvserver.mydns.live:8080/9359bryf47/zl128mc5h8/6758
 #EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS A&E LAM
-http://tv.fulliptvserver.mydns.live:8080/rq9jo5zfn9/mo433mn4ra/6673
+http://tv.fulliptvserver.mydns.live:8080/9359bryf47/zl128mc5h8/6673
 #EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS ,AMC LAM
-http://tv.fulliptvserver.mydns.live:8080/rq9jo5zfn9/mo433mn4ra/6674
+http://tv.fulliptvserver.mydns.live:8080/9359bryf47/zl128mc5h8/6674
 #EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS AXN LAM
-http://tv.fulliptvserver.mydns.live:8080/rq9jo5zfn9/mo433mn4ra/6762
+http://tv.fulliptvserver.mydns.live:8080/9359bryf47/zl128mc5h8/6762
 #EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS Cinecanal FHD LAM
-http://tv.fulliptvserver.mydns.live:8080/rq9jo5zfn9/mo433mn4ra/6691
+http://tv.fulliptvserver.mydns.live:8080/9359bryf47/zl128mc5h8/6691
 #EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS De Pelicula MX
-http://tv.fulliptvserver.mydns.live:8080/rq9jo5zfn9/mo433mn4ra/6711
+http://tv.fulliptvserver.mydns.live:8080/9359bryf47/zl128mc5h8/6711
 #EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS Distrito Comedia MX
-http://tv.fulliptvserver.mydns.live:8080/rq9jo5zfn9/mo433mn4ra/6705
+http://tv.fulliptvserver.mydns.live:8080/9359bryf47/zl128mc5h8/6705
 #EXTINF:-1 tvg-id="" tvg-name="------- Documentaries -------" tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg" group-title="Latin America",------- Documentaries -------
-http://tv.fulliptvserver.mydns.live:8080/rq9jo5zfn9/mo433mn4ra/688536
+http://tv.fulliptvserver.mydns.live:8080/9359bryf47/zl128mc5h8/688536
 #EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS FHD LAM
-http://tv.fulliptvserver.mydns.live:8080/rq9jo5zfn9/mo433mn4ra/687924
+http://tv.fulliptvserver.mydns.live:8080/9359bryf47/zl128mc5h8/687924
 #EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS Animal Planet LAM
-http://tv.fulliptvserver.mydns.live:8080/rq9jo5zfn9/mo433mn4ra/6675
+http://tv.fulliptvserver.mydns.live:8080/9359bryf47/zl128mc5h8/6675
 #EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS Discovery Home and Health LAM
-http://tv.fulliptvserver.mydns.live:8080/rq9jo5zfn9/mo433mn4ra/6696
+http://tv.fulliptvserver.mydns.live:8080/9359bryf47/zl128mc5h8/6696
 #EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS HGTV LAM
-http://tv.fulliptvserver.mydns.live:8080/rq9jo5zfn9/mo433mn4ra/6695
+http://tv.fulliptvserver.mydns.live:8080/9359bryf47/zl128mc5h8/6695
 #EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS E! Entertainment FHD LAM
-http://tv.fulliptvserver.mydns.live:8080/rq9jo5zfn9/mo433mn4ra/688426
+http://tv.fulliptvserver.mydns.live:8080/9359bryf47/zl128mc5h8/688426
 #EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS Lifetime LAM
-http://tv.fulliptvserver.mydns.live:8080/rq9jo5zfn9/mo433mn4ra/6732
+http://tv.fulliptvserver.mydns.live:8080/9359bryf47/zl128mc5h8/6732
 #EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS Canal Gourmet FHD LAM
-http://tv.fulliptvserver.mydns.live:8080/rq9jo5zfn9/mo433mn4ra/6687
+http://tv.fulliptvserver.mydns.live:8080/9359bryf47/zl128mc5h8/6687
 #EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS TV LAM
-http://tv.fulliptvserver.mydns.live:8080/rq9jo5zfn9/mo433mn4ra/6760
+http://tv.fulliptvserver.mydns.live:8080/9359bryf47/zl128mc5h8/6760
 #EXTINF:-1 tvg-id="" tvg-name="------- Children -------" tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg" group-title="Latin America",------- Children -------
-http://tv.fulliptvserver.mydns.live:8080/rq9jo5zfn9/mo433mn4ra/688537
+http://tv.fulliptvserver.mydns.live:8080/9359bryf47/zl128mc5h8/688537
 #EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS Cartoon Network FHD LAM
-http://tv.fulliptvserver.mydns.live:8080/rq9jo5zfn9/mo433mn4ra/6689
+http://tv.fulliptvserver.mydns.live:8080/9359bryf47/zl128mc5h8/6689
 #EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS Disney Channel FHD LAM
-http://tv.fulliptvserver.mydns.live:8080/rq9jo5zfn9/mo433mn4ra/6700
+http://tv.fulliptvserver.mydns.live:8080/9359bryf47/zl128mc5h8/6700
 #EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS Nickelodeon LAM
-http://tv.fulliptvserver.mydns.live:8080/rq9jo5zfn9/mo433mn4ra/6736
+http://tv.fulliptvserver.mydns.live:8080/9359bryf47/zl128mc5h8/6736
 #EXTINF:-1, tnt series
 http://cdn.boxter.live:8081/cine/TNT_SERIES/playlist.m3u8
 #EXTINF:-1, cinemax
